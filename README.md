@@ -21,7 +21,7 @@ All community members are expected to:
 
 * respect differences in people, their ideas and opinions
 * treat one another with dignity and respect
-* respect and treat others fairly, regardless of race ancestry, place of origin, colour, ethnic origin, citizenship, religion, gender, sexual orientation, age or disability
+* respect and treat others fairly, regardless of race ancestry, place of origin, colour, ethnic origin, citizenship, religion (or lack thereof), gender, sexual orientation, age or disability
 * respect the rights of others
 
 
@@ -32,14 +32,14 @@ Everyone is welcome to participate.
 
 ### Policies
 
-The Data-Driven Security  Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+The Data-Driven Security  Slack Team is dedicated to providing a harassment-free experience for everyone, regardless of (but not limited to): gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion (or lack thereof), or preferred technological ecosystem.
 
 
 We do not tolerate harassment of Slack participants in any form. Sexual language and imagery is not appropriate for any venue. Slack participants violating these rules may be sanctioned or expelled from the Data-Driven Security  Slack at the discretion of the Administrative Team.
 
 Harassment includes, but is not limited to:
 
-* Offensive and/or unwelcome comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion, or preferred technological ecosystem.
+* Offensive and/or unwelcome comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion (or lack thereof), or preferred technological ecosystem.
 * Sexual images in public spaces
 * Deliberate intimidation, stalking, or following
 * Harassing photography or recording
